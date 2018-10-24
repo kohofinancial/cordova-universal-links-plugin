@@ -1,5 +1,9 @@
 # Change Log
 
+## 2.0.0 (2018-10-23)
+
+- Support for latest Cordova platforms
+
 ## 1.2.1 (2016-10-23)
 
 **Bug fixes:**
